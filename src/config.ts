@@ -17,8 +17,8 @@ export const siteConfig: SiteConfig = {
   banner: {
     enable: true,
     // Default src: 'assets/images/demo-banner.png'
-    src: 'assets/images/demo-banner.png',   // Relative to the /src directory. Relative to the /public directory if it starts with '/'
-    position: 'center',      // Equivalent to object-position, only supports 'top', 'center', 'bottom'. 'center' by default
+    src: 'assets/images/valorant_horror_movie.png',   // Relative to the /src directory. Relative to the /public directory if it starts with '/'
+    position: 'top',      // Equivalent to object-position, only supports 'top', 'center', 'bottom'. 'center' by default
     credit: {
       enable: false,         // Display the credit text of the banner image
       text: '',              // Credit text to be displayed
@@ -55,9 +55,9 @@ export const navBarConfig: NavBarConfig = {
 // 左半邊個人檔案設定
 export const profileConfig: ProfileConfig = {
   // Default avatar: 'assets/images/demo-avatar.png'
-  avatar: 'assets/images/demo-avatar.png',  // Relative to the /src directory. Relative to the /public directory if it starts with '/'
+  avatar: 'assets/images/fox_sword_girl.jpg',  // Relative to the /src directory. Relative to the /public directory if it starts with '/'
   name: '龍嘯天',
-  bio: '覺得寫程式很帥而開始學習Coding，但沒這方面天分的普通人',
+  bio: '覺得寫程式很帥而開始學習，但沒這方面天分的普通人',
   links: [
     // Visit https://icones.js.org/ for icon codes
     // You will need to install the corresponding icon set if it's not already included
