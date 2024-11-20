@@ -1,7 +1,7 @@
 ---
 title: JavaScript01 - 資料型別
 published: 2024-11-19
-description: 'JavaScript的資料型別'
+description: '基本型別與參考型別'
 image: '/posts/coding/sword_girl.jpg'
 tags: [JavaScript]
 category: '程式設計'
