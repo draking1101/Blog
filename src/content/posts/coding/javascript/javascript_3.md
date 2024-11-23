@@ -1,5 +1,5 @@
 ---
-title: JavaScript 3
+title: JavaScript 3 - 物件與DOM操作
 published: 2024-11-21
 description: '物件與DOM操作'
 image: '/posts/coding/sword_girl.jpg'

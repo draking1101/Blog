@@ -1,5 +1,5 @@
 ---
-title: JavaScript 2
+title: JavaScript 2 - 流程控制與函數
 published: 2024-11-21
 description: '流程控制與函數'
 image: '/posts/coding/sword_girl.jpg'

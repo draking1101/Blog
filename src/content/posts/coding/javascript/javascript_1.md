@@ -1,5 +1,5 @@
 ---
-title: JavaScript 1
+title: JavaScript 1 - 基本語法
 published: 2024-11-21
 description: '理解 JavaScript 的基本語法與運作方式'
 image: '/posts/coding/sword_girl.jpg'
