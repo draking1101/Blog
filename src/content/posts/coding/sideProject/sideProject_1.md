@@ -3,7 +3,7 @@ title: 網頁練習作品 1 - 圖片輪播
 published: 2024-11-23
 description: '練習製作簡單的圖片輪播功能'
 image: '/posts/coding/sword_girl.jpg'
-tags: [JavaScript, HTML, CSS]
+tags: [SideProject]
 category: '程式設計'
 draft: false 
 lang: ''
@@ -88,7 +88,7 @@ function updateClasses() {
 }
 ```
 `CSS`
-```CSS
+```css
 .active {
   left: 0%;
   z-index: 10; // 確保當前的圖片在最上層
